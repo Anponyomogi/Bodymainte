@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/Bodymainte/_next/static/chunks/ff1a16fafef87110.js","/Bodymainte/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"CbsfuG5CfFhEbBoiBl6c9","rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","h1",null,{"children":"テスト記事"}],["$","p",null,{"children":"2024-01-01"}],["$","article",null,{"dangerouslySetInnerHTML":{"__html":"<p>これは <strong>Markdown で書いたテスト記事</strong> です。</p>\n<ul>\n<li>ボディメンテナンス</li>\n<li>肩こり改善</li>\n<li>腰痛ケア</li>\n</ul>\n"}}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
